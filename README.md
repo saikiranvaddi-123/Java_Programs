@@ -1,6 +1,6 @@
 # Java_Programs
 Previous Asked Questions
-//program to calculate total sum of 3 digit number or number contains 3 are
+//program to calculate total sum of 3 digit number or number contains 3 digit 
 public class test1 
 {
 	public static void main(String[] args) 
