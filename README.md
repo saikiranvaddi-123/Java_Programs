@@ -1,5 +1,5 @@
 # Java_Programs
-Previous Asked Questions
+Previous Asked Question in interview
 //program to calculate total sum of 3 digit number or number contains 3
 public class test1 
 {
